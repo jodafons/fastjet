@@ -1,4 +1,4 @@
-# FastJet
+# FastJet (3.3.3)
 
 The FastJet package, written by Matteo Cacciari and Gavin Salam and
 Gregory Soyez, provides a fast implementation of several
@@ -25,7 +25,7 @@ M. Cacciari, G.P. Salam and G. Soyez, JHEP 0804 (2008) 005 [arXiv:0802.1188]
 
 Tools are also provided to facilitate jet substructure analyses.
 
-# Installation
+## Installation:
 
 
 ```bash
@@ -36,6 +36,8 @@ make -j4
 ```
 
 
+## Download:
 
+http://fastjet.fr/repo/fastjet-3.3.3.tar.gz
 
 
